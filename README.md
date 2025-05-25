@@ -14,11 +14,11 @@
 - **Tools**: Git, VS Code, Android Studio, Figma, Canva  
 - **State Management**: GetX, Bloc  
 
----
 
 ### 📌 Experience
 - **Flutter Developer Intern** @ [The Lean Product Studio Pvt. Ltd] (2025–Present)
 
+###
 - 💞️ I’m looking to collaborate on...
     - Open-source Flutter projects – Especially those focused on UI kits, state management solutions, or innovative plugins.
     - Cross-platform apps – Projects that leverage Flutter for iOS, Android, and web.
