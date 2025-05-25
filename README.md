@@ -1,0 +1,30 @@
+# 👋 Hi, I’m Keshav Masvale
+
+### 💡 About Me
+- 🔭 I’m passionate about **Flutter, Android, and cross-platform app development**.
+- 👯 Looking to collaborate on **open-source Flutter projects or innovative mobile apps**.
+- 💬 Ask me about **Flutter widgets, state management (GetX/Bloc), or UI/UX design**.
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: Dart, Java, Python
+- **Mobile**: Flutter, Android SDK  
+- **Backend**: Firebase, REST APIs  
+- **Tools**: Git, VS Code, Android Studio, Figma, Canva  
+- **State Management**: GetX, Bloc  
+
+---
+
+### 📌 Experience
+- **Flutter Developer Intern** @ [The Lean Product Studio Pvt. Ltd] (2025–Present)
+
+- 💞️ I’m looking to collaborate on...
+    - Open-source Flutter projects – Especially those focused on UI kits, state management solutions, or innovative plugins.
+    - Cross-platform apps – Projects that leverage Flutter for iOS, Android, and web.
+    - Startups – Passionate teams building scalable mobile solutions.
+
+### 📫 Let’s Connect!
+- LinkedIn: [Your Profile](www.linkedin.com/in/keshav-masvale-372bba250)
+- Email: flutterkeshavmasvale@gmail.com 
+- Mobile No: 9657546519
