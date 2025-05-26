@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🌍 Technologies I work with:
 - **Languages**: Dart, Java, Python
 - **Mobile**: Flutter, Android SDK  
 - **Backend**: Firebase, REST APIs
