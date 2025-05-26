@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Keshav Masvale
 
 ### 💡 About Me
-- 🔭 I’m passionate about **Flutter, Android, and cross-platform app development**.
+- 🔭 I’m passionate about **Flutter cross-platform app development**.
 - 👯 Looking to collaborate on **open-source Flutter projects or innovative mobile apps**.
 - 💬 Ask me about **Flutter widgets, state management (GetX/Bloc), or UI/UX design**.
 
