@@ -17,7 +17,7 @@
 
 
 ### 📌 Experience
-- **Flutter Developer Intern** @ [The Lean Product Studio Pvt. Ltd] (2025–Present)
+- **Flutter Developer Intern** [The Lean Product Studio Pvt. Ltd] (2025–Present)
 
 ###
 - 💞️ I’m looking to collaborate on...
