@@ -9,7 +9,7 @@
 
 ### 🌍 Technologies I work with:
 - **Languages**: Dart, Java, Python
-- **Mobile**: Flutter, Android SDK  
+- **Framework**: Flutter 
 - **Backend**: Firebase, REST APIs
 - **Databases & Data**: MySQL, SQFlite, Firebase for Integrating real-time databases and authentication.
 - **Tools**: Git, VS Code, Android Studio, Figma, Canva  
