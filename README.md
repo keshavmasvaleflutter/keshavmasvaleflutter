@@ -12,7 +12,7 @@
 - **Framework**: Flutter 
 - **Backend**: Firebase, REST APIs
 - **Databases & Data**: MySQL, SQFlite, Firebase for Integrating real-time databases and authentication.
-- **Tools**: Git, VS Code, Android Studio, Figma, Canva  
+- **Tools**: Git & GitHub, VS Code, Android Studio, Figma, Canva  
 - **State Management**: GetX, Bloc  
 
 
