@@ -8,7 +8,7 @@
 ---
 
 ### 🌍 Technologies I work with:
-- **Languages**: Dart, Java, Python
+- **Languages**: Dart, Java, JavaScript
 - **Framework**: Flutter 
 - **Backend**: Firebase, REST APIs
 - **Databases & Data**: MySQL, SQFlite, Firebase for Integrating real-time databases and authentication.
